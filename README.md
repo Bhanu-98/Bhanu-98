@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhanu-98
-- 👀 I’m interested in Java, Mysql, Springboot, Cloud Computing
+- 👀 I’m interested in Java, Mysql, Springboot and Cloud Computing
 
 
 <!---
